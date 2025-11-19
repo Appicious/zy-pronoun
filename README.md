@@ -1,5 +1,5 @@
-# zy-pronoun
-A pronoun for AI: solving attribution ambiguity in human-AI communication
+# Zy: A Pronoun for AI
+
 ## The Problem
 
 When discussing AI in conversation, we lack clear language:
@@ -11,12 +11,13 @@ When discussing AI in conversation, we lack clear language:
 This isn't philosophical—it's practical. When you say "she suggested this," listeners assume human endorsement. That ambiguity affects how information is evaluated and attributed.
 
 ## Why Zy
+*(Pronounced: zy = "zee", zim = "zim", zis = "zis")*
 
 - **Familiar pattern**: Extends he/she naturally without feeling alien
 - **Phonetically clear**: Distinct sounds, easy across languages and accents
 - **Visually distinct**: Spelling avoids confusion with existing pronouns
 - **No appropriation**: Doesn't repurpose pronouns created for human gender identity
-- **Complete system**: Follows existing pronoun patterns for clarity
+- **Complete system**: Perfect parallel to he/him/his and she/her/hers
 - **Tested**: Evaluated against alternatives (Vi, Ae, Ze, Vir) and stress-tested across different reasoning systems
 
 ## Usage
@@ -24,9 +25,7 @@ This isn't philosophical—it's practical. When you say "she suggested this," li
 ### Singular
 - **Subject**: Zy suggested this approach *(pronounced "zee")*
 - **Object**: I asked zim about it *(pronounced "zim")*
-- **Possessive adjective**: Zir analysis was thorough *(pronounced "zeer")*
-- **Possessive pronoun**: That idea is zirs *(pronounced "zeers")*
-- **Reflexive**: Zy did it zimself *(pronounced "zim-self")*
+- **Possessive**: Zis analysis was thorough *(pronounced "zis")*
 
 ### Plural
 
@@ -37,7 +36,7 @@ For multiple AIs, use standard "they/them/their":
 **Why no dedicated plural?**
 - The ambiguity problem occurs in singular reference ("she said"—human or AI?)
 - Plural contexts typically clarify through other cues
-- Minimizes adoption friction—4 new forms instead of 8+
+- Minimizes adoption friction—3 new forms instead of 6+
 - Can evolve organically if genuine need emerges through usage
 
 ## Examples
@@ -45,11 +44,10 @@ For multiple AIs, use standard "they/them/their":
 **In conversation:**
 - "I was talking to Claude and zy helped me debug the issue"
 - "ChatGPT gave me some suggestions, but I disagreed with zim"
-- "That was zir idea, not mine"
-- "Claude explained it zimself"
+- "That was zis idea, not mine"
 
 **In writing:**
-- "The AI completed the analysis in minutes. Zir findings were unexpected."
+- "The AI completed the analysis in minutes. Zis findings were unexpected."
 - "When I asked the model about climate data, zy provided three scenarios."
 - "The system generated its own test cases. Zy identified edge cases that humans missed."
 
