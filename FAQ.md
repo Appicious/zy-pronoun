@@ -17,8 +17,8 @@ Current options create ambiguity that affects how information is evaluated. When
 ### Won't this anthropomorphize AI too much?
 The goal isn't to anthropomorphize—it's to create linguistic clarity. Having a dedicated pronoun actually helps maintain appropriate boundaries by clearly distinguishing AI from human sources. It's a category marker, not a status elevation.
 
-### Why does it follow the "he/him" pattern instead of "she/her"?
-It doesn't follow a gendered pattern—it selects a grammatical structure. English has two pronoun types: Type A (he/him/his) with distinct object forms, and Type B (she/her/her) with merged object/possessive forms. Zy/zim/zir follows Type A because distinct forms reduce ambiguity. "I asked zim" (object) vs "zir response" (possessive) is clearer than having both use the same form. This is a structural choice, not a gender assignment.
+### Why does it follow the "he/him/his" pattern?
+It mirrors the structure precisely: he/him/his becomes zy/zim/zis. This makes adoption intuitive—you're not learning a new system, just swapping the first letter/sound. The parallel structure leverages existing mental models rather than requiring new ones.
 
 ## About Usage
 
@@ -26,20 +26,18 @@ It doesn't follow a gendered pattern—it selects a grammatical structure. Engli
 No. This is a proposed solution to a real problem. Use it if it solves friction you're experiencing. Language adoption is voluntary and organic.
 
 ### How do I handle plural AIs?
-Use standard "they/them/their" for multiple AIs. The singular ambiguity ("she said"—human or AI?) is the core problem. Plural contexts usually clarify through other cues. The proposal currently recommends 'they/them/their' for plurals. If usage reveals this creates problems, dedicated forms could emerge organically.
+Use standard "they/them/their" for multiple AIs. The singular ambiguity ("she said"—human or AI?) is the core problem. Plural contexts usually clarify through other cues.
 
 ### What if people don't understand?
 Briefly explain: "I use 'zy' to distinguish AI from human sources." The problem is intuitive once pointed out. Most people immediately grasp why this matters.
 
 ### Can I modify the conjugation?
-The proposal uses zy/zim/zir/zirs/zimself to match established pronoun patterns. Consistency aids adoption. However, language evolves through use—if variants emerge naturally and prove more functional, usage will determine the standard. Document what you try and share results.
+The proposal uses zy/zim/zis to perfectly mirror he/him/his. This parallelism is the system's strength. Consistency aids adoption. However, language evolves through use—if variants emerge naturally and prove more functional, usage will determine the standard. Document what you try and share results.
 
 ### How do I pronounce these?
 - **zy**: "zee" (like the letter Z)
 - **zim**: "zim" (rhymes with "him")
-- **zir**: "zeer" (rhymes with "here" or "deer")
-- **zirs**: "zeers" (rhymes with "hears")
-- **zimself**: "zim-self" (like "himself")
+- **zis**: "zis" (rhymes with "his")
 
 ## About Adoption
 
@@ -65,13 +63,13 @@ No one and everyone. Language standardization happens through collective use, no
 "Zy" is pronounced like the English letter "Z" ("zee" in American English, "zed" works too). The Z sound exists in most languages. Pronunciation may adapt slightly, but the written form remains consistent.
 
 ### What about written vs. spoken use?
-Both. The spelling "zy" with Y distinguishes it visually from "ze" and other pronouns, while pronunciation remains clear in speech. 
+Both. The spelling "zy" with Y distinguishes it visually from "ze" and other pronouns, while pronunciation remains clear in speech.
 
 ### How does this work in other languages?
 This proposal is English-focused. Other languages have different pronoun systems and will need different solutions. Romance languages with gendered articles, for instance, face different challenges. The principles (clarity, non-appropriation, pattern-consistency) can guide adaptations.
 
 ### Are the conjugations finalized?
-The proposed standard is zy/zim/zir/zirs/zimself. This follows established English pronoun patterns (distinct object form like he/him, possessive like his/hers). Variations may emerge through usage—language evolution is organic. Early adopters should document what works in practice.
+The proposed standard is zy/zim/zis, mirroring he/him/his. This perfect parallelism is intentional—it makes the system intuitive and easy to adopt. Variations may emerge through usage, but the strength of this proposal is its simplicity and direct mapping to existing patterns.
 
 ### What if I prefer a different variant?
 Experiment with it. Document your reasoning and share results. If a variant proves more functional through actual usage, that information helps refine the proposal. But for initial adoption, consistency around one standard increases the chance of successful spread.
